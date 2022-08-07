@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Vitor-HenriqueAS/nft-preview-card-component
+- Solution URL: https://github.com/Vitor-HenriqueAS/nft-preview-card-component/
 - Live Site URL: https://vitor-henriqueas.github.io/nft-preview-card-component/
 
 ## Author
